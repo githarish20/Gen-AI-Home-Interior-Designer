@@ -6,6 +6,6 @@
    ```bash
    cd /Users/harishwani/Downloads/Gen-AI-Home-Interior-Designer-main/backend
 
-## Install dependencies (if not already installed):
+## 2. Install dependencies (if not already installed):
 
 poetry install --no-root
