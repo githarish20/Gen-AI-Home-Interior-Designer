@@ -4,7 +4,7 @@
 
 1. Navigate to the backend directory:
    ```bash
-   cd /Users/harishwani/Downloads/Gen-AI-Home-Interior-Designer-main/backend
+   cd /Users/Downloads/Gen-AI-Home-Interior-Designer-main/backend
    ```
 
 2. Install dependencies (if not already installed):
@@ -33,7 +33,7 @@
 
 1. In a new terminal, navigate to the frontend directory:
    ```bash
-   cd /Users/harishwani/Downloads/Gen-AI-Home-Interior-Designer-main/frontend
+   cd /Users/Downloads/Gen-AI-Home-Interior-Designer-main/frontend
    ```
 
 2. Install dependencies (if not already installed):
